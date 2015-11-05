@@ -1,0 +1,5 @@
+org/tuto/couchbase/CreateViewSearch.class
+org/tuto/couchbase/CouchbaseConnection.class
+org/tuto/couchbase/CreateBooks.class
+org/tuto/couchbase/CouchbaseTest.class
+org/tuto/couchbase/CreateVideos.class
